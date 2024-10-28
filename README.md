@@ -14,7 +14,7 @@ A Software Developer seeking the opportunity to grow in a healthy and exciting w
   <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,scss,postgres,figma" alt="Tech Stack Icons">
 </div>
 
-#### 🔗 Where else to find me:
+### 🔗 Where else to find me:
 <div align="center">
   <a href="https://www.linkedin.com/in/temitayo-odubade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In Button"/></a>
 </div>
