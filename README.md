@@ -4,8 +4,8 @@
 
 ### 👩‍💻 About me:
 A Software Developer seeking the opportunity to grow in a healthy and exciting work environment to develop my skills
-- 🗺️ Based in London UK, however, I am open to venture out abroad
-- 💻 Fascinated and enthusiastic about creating user-centered and positive digital experiences and software
+- 🗺️ Based in UK, however, I am always open to venture out
+- 💻 Fascinated and enthusiastic about creating user-centered software and positive digital experiences 
 - 👩‍🎓 Recently completed a 12 week full-time Web Development Bootcamp
 - 🎶 Fun fact: I love the piano and a bubble tea enthusiast 🧋
 
