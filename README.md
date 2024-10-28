@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h1> Hi, I'm Temitayo :wave: </h1> 
+</div>
 
-<!--
-**Temitayo519/Temitayo519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About me:
+A Software Developer seeking the opportunity to grow in a healthy and exciting work environment to develop my skills
+- 🗺️ Based in London UK, however, I am open to venture out abroad
+- 💻 Fascinated and enthusiastic about creating user-centered and positive digital experiences and software
+- 👩‍🎓 Recently completed a 12 week full-time Web Development Bootcamp
+- 🎶 Fun fact: I love the piano and a bubble tea enthusiast 🧋
 
-Here are some ideas to get you started:
+### 📚 Tech Stack 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,scss,postgres,figma" alt="Tech Stack Icons">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔗 Where else to find me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/temitayo-odubade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In Button"/></a>
+</div>
+
